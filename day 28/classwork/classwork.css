@@ -1,0 +1,64 @@
+/*sElector არის ელემენტის მისამართი
+Declaration არის მისთვის მინიჭებული სტილის წესი */
+
+body {
+    background-color: black;
+    color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+header a {
+    color: burlywood;
+    margin-right: 15px;
+}
+
+#Heading {
+    border: none;
+    padding: 0;
+    color: white;
+    margin: 0;
+}
+
+#Info {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 40px 0;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+footer ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    max-width: 120px;
+    height: auto;
+}

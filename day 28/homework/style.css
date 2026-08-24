@@ -1,0 +1,21 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+
+#first {
+    background-color: navy;
+    padding: 10px;
+}
+
+h1 {
+    color: white;
+    display: inline;
+    margin: 15px;
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    margin-top: 50px;
+}
