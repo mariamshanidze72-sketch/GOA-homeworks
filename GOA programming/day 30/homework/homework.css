@@ -1,0 +1,20 @@
+div {
+    display:flex;
+    justify-content:space-between;
+
+}
+
+button {
+    color:White;
+    background-color: rosybrown;
+    border-radius: 50px;
+}
+
+.game {
+    font:bolder;
+}
+
+#oh {
+    border-radius: 20px;
+}
+
