@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    border: 0;
+}
+
+body {
+    background-color: rgb(236, 236, 236);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+
+h1 {
+    color: rgb(82, 10, 145);
+    margin: 50px;
+}
+
+
+input {
+    width: 500px;       
+    padding: 12px 20px; 
+    font-size: 16px;    
+    margin: 10px 0;     
+}
+
+button {
+    background-color: rgb(82, 10, 145);
+    color: white;
+    width: 150px;
+    height: 40px;
+    padding: 10px;
+}
+
+input, button {
+    border-radius: 50px;
+
+}
+
+#Message {
+    height:120px;
+    border-radius: 20px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+}
+
+input[placeholer='Your Message'] {
+    text-align: left;
+}
+
+button:hover {
+    background-color:rgb(126, 79, 167) ;
+    cursor: pointer;
+}

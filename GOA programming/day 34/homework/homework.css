@@ -1,0 +1,25 @@
+ul {
+  list-style-type: none;
+}
+
+body{ 
+    background-color:#DB5461;
+}
+header {
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    color:#171738 ;
+    font-size:15px;
+
+}
+
+main,section {
+    padding: 20px;
+}
+
+footer{
+    display:flex;
+    justify-content:center;
+    padding:20px;
+}

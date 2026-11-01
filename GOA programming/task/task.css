@@ -1,0 +1,23 @@
+
+
+body {
+    background-color: #5E4C43;
+    margin: 20px;
+    font-family: 'Roboto Condensed' ,sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content:flex-start;
+}
+
+h1 {
+    color:#000;
+    background-color: rgb(255 , 255 , 255);
+    text-decoration:underline;
+}
+
+h1:hover {
+    color:red;
+    text-decoration:line-through;
+}

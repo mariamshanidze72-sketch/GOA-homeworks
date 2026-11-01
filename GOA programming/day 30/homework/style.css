@@ -5,7 +5,7 @@
 }
 
 .main{
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('image1.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.49),rgba(0,0,0,0.5)),url('image1.jpg');
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -47,5 +47,10 @@ ul li.active a{
     float:left;
     margin-top: 20px;
     margin-left: 40px;
+}
+
+h2,h1{
+    
+
 }
 

@@ -1,0 +1,14 @@
+#First {
+    width: 200px;
+    height: 80px;
+    padding: 40px;
+    border: 30px;
+    margin: 40px;
+}
+
+#Second {
+    width: 100px;
+    height: 201px;
+    padding: 8px;
+    margin: 16px;
+}
